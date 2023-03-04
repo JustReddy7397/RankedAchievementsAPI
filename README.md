@@ -88,5 +88,5 @@ public void onPlayerJoin(PlayerJoinEvent event) {
 
 
 ## Support
-**If you still don't get it, contact me on discord: Reddy#4766**
+**If you still don't get it, contact me on discord: Reddy#4766**<br/>
 **And no, I won't be giving you the actual plugin this api depends on :)**
